@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "techno-dashboard-492019",
+  "private_key_id": "8073cd935f50c211584da4948abc83d9c3e12600",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvEf4etYsSm961\ndRDGXcsBu0EfCLnMRGVKFhT20TpEkyeU5w9Pnmv9iRt3ATPBD0WMgpwHf17Hv14B\nHnjDSkDx9bsoneJs5UVeU3qD9rjRJYOTuLfLG7ZK+hUztGLeQJJjNn2qMFtg8lG5\ngOp5sh9k8PIY2Y4lvOfU1umz1zMV5hC1EsXZFpo0uB0bGtRgh5RvBPYLXkfITfEC\nu1j3Ol0HPbMg739Q0mwCP9hawKv7Pd0zwxciqaXah0PnK3YcATUEu+mZGZaWyPVx\nJGLXoXqMvt03lcfKW09EZD8aN6nh8rZrULJi22cnuU+xtIGhJX6uieHwExYxtDey\n3B15UD2LAgMBAAECggEAAOnhH5vm6+PwV5YSzlYy9wFZJ6ZOAejhdm+DEH6rBSyX\nakmCZPH4skwC3q4c7Qb9X+xWkBt0DSrMfMkB7FL438pefanFQrg3knRxETs6X60I\ncL7oBqFQZDfF4I0ybuJ7YRUptrel4m2hS4yGrLfnPgmb2dFY0o2X0B6G/a9Dzvtw\nKMeaBbL6qmT/FcKS4dN5XUfKe2dC0iKEIr892YD2fXPVC0e3Dm1ZhegMjzpek458\nVRCx0OJNy7Uifv8iD+2IFv67Fv+iWXXEF6j3zKAnshpMsZIPW9iv3bwCLIPrm2/2\nvmLMOHshXIZO1q5L8l+x+to02GpunWMwaEIYz0mWEQKBgQDcaCXHexAVzbhNoEQp\nBAFNHpjUGmgOMCh3WtusLV8CJfWLq7CMs/BfwsMPmln68VPun2Xsq8IDvNRFmRrE\np2XyJCCtBBLD6AziIxKwYu0TOVfi5yuVXKf23k/UzHbOWWtE0xwVTgBnz8d8LsiY\nTe5YXuWi8GcQzVoW/qAK+uAtdQKBgQDLV5WQG2eN2obv2Wjm8fcqTg993bExEGik\nIBscguLYUtGDca75/eOVCem40yr0dmfE/2J+nb000iYdpSxYVXjQtJOwDz6z7AdD\npBsVkS7sX2Hj9IdxYDFQmRL8oAWhoM2rt/zEi5w8+1+W42G17C9mRoUIo2TjGCXi\nPZaYMcpe/wKBgGMmjuhAGipU0zZIhKEW5ib1Prcb8fd//pRC0VORTY4/2Ugtwkxp\nnhbWHL3mJ9hVu/Y6yrU/RxY7Whq9F2ekDp5xVim/DVoIB9OrB3tF5XSidUDj0Z1t\ngznxJGSMXl3RqAncFmQXJOOOeyUIPsEVPcWPWyqDjznlx0NU5FZMKZEJAoGACInk\n/egosQw8HlZC0W/XsS8V93MXvbeyrTGr8caNQAg6RArCDj1bEScZaWl0pE9UjDEt\nMaPuDgnFD/mfoxXzvM/YY8xAFc4TgAOkH4O5NLPMqIXcKiaf64KCCZmuotrdyBgx\nxQ8XwHfNy8hAkiMY2nKbo4E4+1BIRvfPGxT8KoECgYEAy5IJSX7O+o6VO8wAjYK/\nl6KGewwLBq2do7yNFDmgMM/Z5JqN6XaNUgwYoATvz7/oUJum9znVW8L0iu//W3wH\nsBF0JTNrtY21s2MpbjqXio8MjyWPiGeWyelSLECDZ5ckRrbhAzgtUsjb7jrVAS0K\nfrEvbhon67vYcWXsaIyS+Wo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet-reader@techno-dashboard-492019.iam.gserviceaccount.com",
+  "client_id": "103526576688893484390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-reader%40techno-dashboard-492019.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
